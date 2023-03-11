@@ -183,7 +183,7 @@ docker-compose down
 Short breakup:
 ## Why Dockerfile is important and what does everything inside it mean?
 
-- [] Yet to answer
+- [ ] Yet to answer
 
 ## What docker-compose up does?
 > I would like to make it easier to understand since it took me weeks to figure out what is the purpose of docker compose. 
