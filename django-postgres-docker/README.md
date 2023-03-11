@@ -182,6 +182,10 @@ docker-compose down
 --- 
 Short breakup:
 ## Why Dockerfile is important and what does everything inside it mean?
+
+- [] Yet to answer
+
+## What docker-compose up does?
 > I would like to make it easier to understand since it took me weeks to figure out what is the purpose of docker compose. 
 
 > So far I know that each service (it is: django app and postgres database in our case) runs in a single container. So for django app we should have a container and for postgres a different one. What docker-compose does is to create a container for each service and then connect them so that they can work together for any purpose you want. 
