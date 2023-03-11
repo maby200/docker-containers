@@ -1,0 +1,5 @@
+env
+images
+.git
+.gitignore
+db.sqlite3
